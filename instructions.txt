@@ -1,0 +1,26 @@
+BP - Profiles Manager v1.3
+
+(C) Ashley Johnson (elgunvo.de) 2011
+
+License: GPL v3
+
+INSTALLATION INSTRUCTIONS
+
+Before you start these procedures please make sure you have buddy-press installed and working.
+
+1. Upload the buddypress-profiles folder to plugins folder.
+2. Go to your buddy-press template and search for edit.php.
+3. Change <?php bp_profile_group_tabs(); ?> with <?php bp_pm_group_tabs() ?>
+4. Activate the BP-Profiles Manager in wp-admin under plugins.
+5. Go to settings -> BP-Profiles Manager
+6. Your Good to go!
+
+CUSTOM PLUGINS
+
+If you want me to create another plugin you can either pay(commercial plugin) or 
+suggest (Open Source Plugin) and maybe donate to my paypal (hallo@elgunvo.de) then email me.
+
+DONATIONS
+
+I know I have said it before above but if you find my plugin useful, please consider donating
+to my paypal account (hallo@elgunvo.de). Alternatively if your searching for hosting then you can also support me by using my hosting company http://elgunvo-hosting.com
